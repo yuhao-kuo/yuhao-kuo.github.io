@@ -1,3 +1,4 @@
+
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -201,6 +202,3 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
-=======
-theme: jekyll-theme-cayman
->>>>>>> 05a78f5c69c9d06365e262423c7ec764c6a9703b
