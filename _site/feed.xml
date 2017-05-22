@@ -3,8 +3,8 @@
 	<channel>
 		<title>安全拼裝區</title>
 		<description>安全拼裝區</description>
-		<link>http://localhost:4000/yuhao-kuo</link>
-		<atom:link href="http://localhost:4000/yuhao-kuo/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Frist post</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Fri, 12 May 2017 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/yuhao-kuo/test/2017/05/12/welcom.html</link>
-				<guid isPermaLink="true">http://localhost:4000/yuhao-kuo/test/2017/05/12/welcom.html</guid>
+				<link>http://localhost:4000//test/2017/05/12/welcom.html</link>
+				<guid isPermaLink="true">http://localhost:4000//test/2017/05/12/welcom.html</guid>
 			</item>
 		
 	</channel>

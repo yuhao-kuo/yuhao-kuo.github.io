@@ -12,7 +12,8 @@ url: "https://yuhao-kuo.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /yuhao-kuo
+#baseurl: /yuhao-kuo
+baseurl: /
 
 # Google tracking id
 
