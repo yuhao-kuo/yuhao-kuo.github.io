@@ -1,7 +1,4 @@
 
-# 隱藏yml
-_config.yml
-
 # 不追蹤_site
 _site/
 

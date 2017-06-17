@@ -1,0 +1,57 @@
+# Build settings
+permalink   : /blog/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+#source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: "Kuo Yu-Hao"
+description: "yuhao-kuo.github.io blog's"
+keywords: "yuhao.kuo, kajiala, blog"
+url: https://yuhao-kuo.github.io
+#baseurl: "/end2end"
+# baseurl: ""
+favicon: /image/favicon.ico
+
+# google_analytics: UA-52446115-1
+repo: "https://github.com/yuhao-kuo"
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "yuhao.kuo blog"
+
+# Author settings
+author:
+  name      : Kuo Yu-Hao
+  job       : Firmware Engineer
+  bio       : "Let the dream come true !!"
+  thumb     : /images/me260.jpg
+  email     : st40201@gmail.com
+  url       : http://yuhao-kuo.github.io
+  github    : http://github.com/yuhao-kuo
+  twitter   : http://twitter.com/yuhao.kuo
+  facebook  : http://facebook.com/yuhao.kuo.kajiala
+
+# 404 page
+error-404-img: /images/labtocat.png
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+#  - slug: resume
+#    title: Resume
+  - slug: project
+    title: Project
+  - slug: blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
