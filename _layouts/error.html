@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
+    {% include end2end_head.html %}
     <body class="home">
         <div class="hero">
-            {% include google_analytics.html %}
+	    {% include google_analytics.html %}
 	    <a href="{{ "/" | prepend: site.baseurl }}">
                  <img src="{{ site.error-404-img }}" alt="404 image" class="dot">
 	    </a>
             {{ content }}
-
-            {% include github-corner.html %}
-
-	    {% include social.html %}
         </div>
     </body>
 </html>
