@@ -15,8 +15,8 @@ title: yuhao.kuo Home
                 <img src="{{ site.avatar_img_path }}" id="avatar">
             {% endif %}
 
-            <h1>{{ site.name }}</h1>
-            <h3>{{ site.description }}</h3>
+            <h1 id="nametext">{{ site.name }}</h1>
+            <h3 id="descriptiontext">{{ site.description }}</h3>
 
                 <ul>
                     {% if site.github_username %}
@@ -111,6 +111,13 @@ title: yuhao.kuo Home
 		    </li>
 		</ul>-->
         </div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+ 	<script src="/javascript/jquery.fittext.js"></script>
+	<script type="text/javascript">
+		$("#descriptiontext").fitText(2.4);
+		$("#nametext").fitText(1.4);
+	</script>
 
     </body>
 </html>
