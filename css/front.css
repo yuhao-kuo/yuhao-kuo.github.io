@@ -21,10 +21,15 @@ body {
     -webkit-filter:brightness(.5);
 }
 #avatar {
-    height: 240px;
+    /*height: 240px;*/
     border-radius: 100%;
     border: 5px solid white;
     margin-bottom: 40px;
+}
+img {
+    height: 13%;
+    width: auto\9;
+    width: 13%;
 }
 h1 {
     color: white;
