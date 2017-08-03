@@ -1,6 +1,6 @@
 # Site settings
-title: 'yuhao home'
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: 'Kuo Yu-Hao'
+description: 'a Firmware engineer.<br>Let the dream come true !!'
 url: 'https://yuhao-kuo.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -28,6 +28,7 @@ paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
+error-404-img: 'images/labtocat.png'
 
 kramdown:
   # use Github Flavored Markdown
