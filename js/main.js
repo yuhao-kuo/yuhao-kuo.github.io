@@ -7,7 +7,7 @@ sitemap:
 $(document).ready(function () {
   $('a.blog-button').click(function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
-    currentWidth = $('.panel-cover').width()
+    currentWidth = $('.panel-cover').width()/*
     if (currentWidth < 960) {
       $('.panel-cover').addClass('panel-cover--collapsed')
       $('.content-wrapper').addClass('animated slideInRight')
@@ -23,7 +23,7 @@ $(document).ready(function () {
 
   if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
-  }
+  }*/
 
   $('.btn-mobile-menu').click(function () {
     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')
