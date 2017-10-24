@@ -6,6 +6,8 @@ yuhao-kuo 的個人網站入口主頁, 個人網站由此開始
 
 部落格: [yuhao-kuo Blog](https://yuhao-kuo.github.io/blog)
 
+關於我: yuhao-kuo About
+
 專案: yuhao-kuo Project
 
 ## Jekyll Theme ##
@@ -13,4 +15,6 @@ Home Page 基於 [Jekyll-uno](https://github.com/joshgerdes/jekyll-uno), 來自�
 
 404  Page 基於 [end2end](https://github.com/nandomoreirame/end2end), 來自於 [nandomoreirame](https://github.com/nandomoreirame)
 
-blog Page 基於 [jekyll-theme-simple-texture](https://github.com/yizeng/jekyll-theme-simple-texture), 來自於 [yizeng](https://github.com/yizeng)
+blog Page 基於 [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io), 來自於 [Gaohaoyang](https://github.com/Gaohaoyang)
+
+about Page 基於 [hyde](https://github.com/poole/hyde), 來自於 [poole](https://github.com/poole)
