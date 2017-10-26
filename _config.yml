@@ -1,6 +1,6 @@
 # Site settings
-title: 'Kuo Yu-Hao'
-description: 'a Firmware engineer.<br>Let the dream come true !!'
+title: "Kuo Yu-Hao"
+description: 'a firmware engineer.<br>Let the dream come true !!'
 url: 'https://yuhao-kuo.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
