@@ -6,9 +6,11 @@ yuhao-kuo 的個人網站入口主頁, 個人網站由此開始
 
 部落格: [yuhao-kuo Blog](https://yuhao-kuo.github.io/blog)
 
-關於我: yuhao-kuo About
+關於我: [yuhao-kuo About](https://yuhao-kuo.github.io/about)
 
 專案: yuhao-kuo Project
+
+簡報: [yuhao-kuo Slides](https://yuhao-kuo.github.io/Slides)
 
 ## Jekyll Theme ##
 Home Page 基於 [Jekyll-uno](https://github.com/joshgerdes/jekyll-uno), 來自於 [joshgerdes](https://github.com/joshgerdes)
@@ -18,3 +20,7 @@ Home Page 基於 [Jekyll-uno](https://github.com/joshgerdes/jekyll-uno), 來自�
 blog Page 基於 [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io), 來自於 [Gaohaoyang](https://github.com/Gaohaoyang)
 
 about Page 基於 [hyde](https://github.com/poole/hyde), 來自於 [poole](https://github.com/poole)
+
+Slides Home Page 基於 [cards](https://github.com/sharu725/cards), 來自於 [sharu725](https://github.com/sharu725)
+
+Slides Page 基於 [reveal.js](https://github.com/sharu725), 來自於 [hakimel](http://hakim.se)
