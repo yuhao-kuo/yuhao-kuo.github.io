@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about.html
+permalink: /about/
 ---
 
 # About 關於我

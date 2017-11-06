@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include hyde_head.html %}
+    {% include hydeout_head.html %}
+    
+    <body class="page">
 
-  <body class="theme-base-0f layout-reverse">
+        {% include hydeout_sidebar.html %}
 
-    {% include hyde_sidebar.html %}
+        <div class="content">
+            {{ content }}
+        </div>
 
-    <div class="content container">
-      {{ content }}
-    </div>
+    </body>
 
-  </body>
 </html>
