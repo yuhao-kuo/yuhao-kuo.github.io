@@ -19,7 +19,7 @@ Home Page 基於 [Jekyll-uno](https://github.com/joshgerdes/jekyll-uno), 來自�
 
 blog Page 基於 [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io), 來自於 [Gaohaoyang](https://github.com/Gaohaoyang)
 
-about Page 基於 [hyde](https://github.com/poole/hyde), 來自於 [poole](https://github.com/poole)
+about Page 基於 [hydeout](https://github.com/fongandrew/hydeout), 來自於 [fongandrew](https://github.com/fongandrew)
 
 Slides Home Page 基於 [cards-jekyll-template](https://github.com/willianjusten/cards-jekyll-template), 來自於 [willianjusten](https://github.com/willianjusten)
 
