@@ -23,4 +23,4 @@ about Page 基於 [hydeout](https://github.com/fongandrew/hydeout), 來自於 [f
 
 Slides Home Page 基於 [cards-jekyll-template](https://github.com/willianjusten/cards-jekyll-template), 來自於 [willianjusten](https://github.com/willianjusten)
 
-Slides Page 基於 [reveal.js](https://github.com/sharu725), 來自於 [hakimel](http://hakim.se)
+Slides Page 基於 [reveal.js](https://github.com/hakimel/reveal.js), 來自於 [hakimel](http://hakim.se)
