@@ -10,8 +10,11 @@
     <div class="panel-main__content">
         <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
           <img src="{{ site.baseurl }}{{ site.profilepic }}" class="user-image" alt="My Profile Photo">
-          <h1 class="panel-cover__title panel-title">{{ site.author.name }}</h1>
         </a>
+        <h1 class="panel-cover__title panel-title">
+            <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">{{ site.author.name }}</a>
+        </h1>
+        
         <hr class="panel-cover__divider">
 	  <p class="panel-cover__description">{{ site.description }}</p>
         <hr class="panel-cover__divider panel-cover__divider--secondary">
