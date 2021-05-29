@@ -1,0 +1,20 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: WasmVM
+  gh_user: WasmVM
+  repo: WasmVM
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png
+  desc: An unofficial standalone WebAssembly process virtual machine.
+
+- name: NKUST Thesis Template
+  gh_user: yuhao-kuo
+  repo: NKUST-thesis-template
+  img: https://www.nkust.edu.tw/var/file/0/1000/img/513/533313901.png
+  desc: It is based on LaTeX for National Kaohsiung University of Science and Technology thesis template.
+
+- name: AdminLTE with .Net Core
+  gh_user: Wei-Hsun
+  repo: AdminLTE-with-dotnet-core
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png
+  desc: It is based on .Net Core for AdminLTE Dashboard model.

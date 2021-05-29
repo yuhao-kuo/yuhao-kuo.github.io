@@ -2,3 +2,5 @@
 # 不追蹤_site
 _site/
 .bk
+.sass-cache/
+.bundle/

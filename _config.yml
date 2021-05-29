@@ -2,33 +2,26 @@
 title: "yuhao's map"
 description: 'a firmware engineer.<br>Let the dream come true !!'
 url: 'https://yuhao-kuo.github.io'
-baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+baseurl: ''
+profilepic: 'https://yuhao-kuo.github.io/images/me260.jpg'
+bkimage: '/images/background.jpg'
+google_analytics: UA-136518943-1
+font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Kuo Yu-Hao'
-  email: st40201@gmail.com
-  twitter_username: yuhao_kuo 
-  facebook_username: yuhao.kuo.tw
+  name: 'Kuo, Yu-Hao'
+  email: yuhao.kaku@gmail.com
   github_username:  yuhao-kuo
-  linkedin_username:  
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+  linkedin_username:  yuhao-kuo
 
 # Build settings
 destination: _site
-paginate: 10
-permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
-error-404-img: 'images/labtocat.png'
+
+sass:
+    sass_dir: _sass
+    style: compressed
 
 kramdown:
   # use Github Flavored Markdown
@@ -36,5 +29,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
